@@ -15,7 +15,8 @@ The console is the first segment of the AirBnB project at Holberton School that 
 * [Usage](#usage)
 * [Examples of use](#examples-of-use)
 * [Bugs](#bugs)
-* [Authors](#authors)
+* [Original Authors](#authors)
+* [AirBnB clone v4](#airbnb-clone-v4)
 * [License](#license)
 
 ## Environment
